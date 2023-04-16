@@ -49,8 +49,8 @@ function init() {
 
 function animate() {
     requestAnimationFrame(animate);
-    girl.rotation.x += 0.005;
-    girl.rotation.y += 0.005;
+    // girl.rotation.x += 0.005;
+    // girl.rotation.y += 0.005;
     girl.rotation.z += 0.005;
     renderer.render(scene, camera);
 }
@@ -59,7 +59,7 @@ init()
 
 function onWindowResize(){
     camera.aspect = container.clientWidth / container.clientHeight
-    camera.updateProjectMatrix();
+    // camera.updateProjectMatrix();
 
     renderer.setSize(container.clientWidth, container.clientHeight);
 }
