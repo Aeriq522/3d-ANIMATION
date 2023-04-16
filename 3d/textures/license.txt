@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lilac FREE Model
+* source:	https://sketchfab.com/3d-models/lilac-free-model-d2dca62596894114b8287d2e52ce462e
+* author:	Mark Escuadro (https://sketchfab.com/tidusyuna09)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lilac FREE Model" (https://sketchfab.com/3d-models/lilac-free-model-d2dca62596894114b8287d2e52ce462e) by Mark Escuadro (https://sketchfab.com/tidusyuna09) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
